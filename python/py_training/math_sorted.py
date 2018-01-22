@@ -1,0 +1,9 @@
+import math
+def mycmp(x,y):
+    if x>y:
+        return -1
+    if x<y:
+        return 1
+    return 0
+print sorted([36,4,56,33,7,7],mycmp)
+print sorted(['asdf','Wlkdi','wwe','pm'])
