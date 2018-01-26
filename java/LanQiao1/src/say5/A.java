@@ -36,9 +36,13 @@ public class A {
 		return x;
 	}
 	
+<<<<<<< HEAD
 	
 	public static void main(String[] args) {
 		
+=======
+	public static void main(String[] args) {
+>>>>>>> 772d5871af524ee77aa9f04214c249b738346079
 		//------ȡģ---
 		System.out.println(fMol(5,50,17));
 		
